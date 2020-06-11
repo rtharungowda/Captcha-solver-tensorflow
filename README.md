@@ -1,5 +1,5 @@
 # Captcha-solver-tensorflow
-Solving computer generated image captcha using tensorflow object detection api.
+Solving computer generated image captcha using tensorflow object detection api and faster rcnn inception v2coco.
 
 Object detection is the process of finding instances of real-world objects such as faces, buildings, and bicycle in images or videos. Object detection algorithms typically use extracted features and learning algorithms to recognize instances of an object category. It is commonly used in applications such as image retrieval, security, surveillance, and advanced driver assistance systems (Self-driving cars).
 
